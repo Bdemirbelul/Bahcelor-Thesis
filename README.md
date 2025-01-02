@@ -1,6 +1,6 @@
 # Bahcelor-Thesis 
 Overview:
-This repository contains a detailed implementation of the concept of Potential Energy in physics, using structured JSON format. It aims to provide a comprehensive educational tool for students, educators, and physics enthusiasts to better understand and calculate potential energy across various scenarios, including gravitational, elastic, and electrostatic potential energy. This code structure helps in visualizing key concepts, formulas, examples, and provides detailed explanations about each type of potential energy.
+This repository contains a detailed implementation of the concept of physics, using structured JSON format. It aims to provide a comprehensive educational tool for students, educators, and physics enthusiasts to better understand and calculate potential energy across various scenarios, including gravitational, elastic, and electrostatic potential energy. This code structure helps in visualizing key concepts, formulas, examples, and provides detailed explanations about each type of potential energy.
 
 Features:
 Detailed Descriptions: Includes both short and long descriptions to help explain the theory of potential energy in simple terms as well as more advanced language.
