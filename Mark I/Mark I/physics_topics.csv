@@ -1,0 +1,7 @@
+Topic;Description;formula;Example
+Principles of Mechanical Motion;Mechanics is the study of the motion of objects, divided into kinematics and dynamics. Kinematics deals with describing motion, while dynamics relates motion to forces.;;
+Particle;"An idealized object treated as a point without rotational or vibrational considerations. Often used to approximate real objects in motion."", Earth and Sun can be considered particles with respect to the distance between them.";;Earth and Sun
+Average Velocity;The rate at which a particle's position changes over time. It involves both direction and magnitude.;v = dr / dt;If a person travels 100m north in 20 seconds, the average velocity is 5 m/s north.
+Instantaneous Velocity;The velocity at any given instant, derived as the limit of average velocity as the time interval approaches zero.;v = dr / dt;If a car speeds up from rest, its velocity at a specific second can be calculated using the equation for instantaneous velocity.
+Acceleration;The rate of change of velocity with respect to time. It can change in magnitude or direction, or both.;a = dv / dt;When a car accelerates from 0 to 60 km/h in 5 seconds, the acceleration is 12 km/h/s.
+One-Dimensional Motion with Constant Acceleration;Motion where acceleration is constant, occurring along one axis. The equations describe velocity and position over time.;"v = vd + at; x = xd + vdt + (1/2)at²";If a ball is dropped from a height, its velocity and position at any moment can be determined by these equations.
