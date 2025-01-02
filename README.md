@@ -12,7 +12,7 @@ Small Descriptions: Short, clear, and to-the-point explanations about potential 
 Long Descriptions: In-depth explanations, breaking down the principles of potential energy into sub-categories (e.g., gravitational, elastic, and electrostatic potential energy). These give the user a comprehensive understanding.
 Formulas: Provides standard formulas for calculating potential energy (e.g., Gravitational Potential Energy formula U = mgh).
 Examples: Real-life examples of potential energy in action, including objects like springs, water dams, or charged particles.
-Questions and Answers: Frequently asked questions that help reinforce the concepts. The user can ask questions like "What is potential energy?", "How do I calculate gravitational potential energy?", and "What is electrostatic potential energy?" to quickly find answers.
+Questions and Answers: Frequently asked questions that help reinforce the concepts. The user can ask questions like "What is potential energy?", "Formula of potential energy?", and "Ask a question about potential energy?" to quickly find answers.
 Hints: Offer tips for students on how to think about potential energy in terms of forces, height, mass, and position.
 
 
