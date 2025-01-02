@@ -18,4 +18,6 @@ Hints: Offer tips for students on how to think about potential energy in terms o
 
 !!!Since github is not letting me to upload my reddit conversation data you can accces and have a look from this link !!!
 
+!!!You can find example images to try out the visual input !!!
+
 https://www.kaggle.com/datasets/armitaraz/chatgpt-reddit
