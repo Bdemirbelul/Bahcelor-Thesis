@@ -40,7 +40,7 @@ class Chatbot:
         self.MAX_HISTORY_LENGTH = 10000
 
         self.physics_dataset = PhysicsData()
-        self.further_help = FurtherHelp(wolfram_alpha_app_id='8UK9X2-PKGXQYTYVX')  
+        self.further_help = FurtherHelp(wolfram_alpha_app_id='')  
 
         self.memory = {}
     def update_memory(self, key, value):
@@ -213,7 +213,7 @@ class FurtherHelp:
 
 
 
-wolfram_alpha_app_id = '8UK9X2-PKGXQYTYVX'  
+wolfram_alpha_app_id = ''  
 furtherhelp = FurtherHelp(wolfram_alpha_app_id)
 chatbot = Chatbot()
 physics_data = PhysicsData()
@@ -329,7 +329,7 @@ def recognize_speech():
         print("Sorry, there was an error with the request.")
 
 
-api_key = "AIzaSyDNWw-hwng1JYhkcICiN78tz3BFf-U_yco" 
+api_key = "" 
 
 def upload_image():
     try:
